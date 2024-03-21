@@ -12,7 +12,7 @@ In this course, students learn about and experiment with a variety of advanced d
 
 Students learn how these techniques are used to develop and tell stories, and then apply that knowledge in small-scale, novel exercises.
 
-> If you're a journalism educator, please reach out and we can provide free access to the accompanying Teacher's Guide for this course.
+> :book: If you're a journalism educator, please reach out and we can provide free access to the accompanying Teacher's Guide for this course.
 
 ## Resources
 
