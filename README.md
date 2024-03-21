@@ -6,6 +6,7 @@ In this course, students learn about and experiment with a variety of advanced d
 
 - Working with APIs and web scraping at scale
 - Data extraction and standardization methodologies
+- Deeper dive into charts and data visualization
 - Data dashboards to guide newsroom reporting
 - Geospatial and satellite imagery analysis
 - Algorithmic accountability
