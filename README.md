@@ -16,7 +16,7 @@ We'll examine how journalists use these techniques to develop and tell stories, 
 
 > :book: If you're a journalism educator, please reach out and we can provide free access to the accompanying Teacher's Guide for this course.
 
-## Prerequesites
+## Prerequisites
 
 This course is designed for students with a solid foundation in basic Python syntax and some experience with data analysis, in particular using the [pandas](https://pandas.pydata.org/) and [altair](https://altair-viz.github.io/) libraries. Basic familiarity with the command line is also assumed.
 
