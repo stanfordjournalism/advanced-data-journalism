@@ -1,7 +1,6 @@
 # Tools and Technical Setup
 
-In this course we'll primarily be using Python for coding and analysis,
-along with a few other services and tools that are generally free.
+In this course we primarily use the Python programming language for coding and analysis, along with a few other services and tools that are generally free.
 
 
 ## GitHub
