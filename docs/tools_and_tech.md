@@ -16,8 +16,9 @@ You'll need Python 3.10 or 3.11.
 
 If you're on a **Mac**, you can verify the current version of Python by:
 
-- Open a Terminal shell
-- `python --version`
+- Hit `command + space bar` to open a Spotlight search
+- Search for the Terminal shell application and open it
+- In the terminal, type `python --version` and hit `return`
 
 If you see Python `3.10.x` or `3.11.x`, you're all set. If you see an older Python version, check out these [install instructions](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#mac) or ping me to discuss options.
 
