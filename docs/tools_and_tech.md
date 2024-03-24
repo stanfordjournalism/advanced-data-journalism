@@ -2,18 +2,15 @@
 
 In this course we primarily use the Python programming language for coding and analysis, along with a few other services and tools that are generally free.
 
+## Code Editor
 
-## GitHub and git
+We officially support (and recommend) [Visual Studio Code](https://code.visualstudio.com/) as the code editor for this course.
 
-We'll use the [git version control system](https://git-scm.com/book/en/v2) in tandem with GitHub, a platform for sharing code and managing projects.
+After getting VS Code, you should install the following extensions:
 
-- [GitHub](https://github.com/) account
-  - [GitHub Student Developer Pack](https://education.github.com/pack) - Signing up requires a Stanford student ID and should only take a few minutes.
-  - [GitHub Copilot](https://github.com/features/copilot) enabled (after getting approved for the Student Developer Pack
-
-Once you have a GitHub account, follow [these steps](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#mac) to install git on your computer.
-
-Lastly, follow [these steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate ssh keys and upload your *public* ssh key to GitHub. **NOTE**: Leave the password blank when generating your ssh key.
+  - Python
+  - Jupyter
+  - GitHub Copilot
 
 ## Python
 
@@ -29,15 +26,17 @@ If you see Python `3.10.x` or `3.11.x`, you're all set. If you see an older Pyth
 
 If you’re on **Windows**, check out these [install instructions for Windows Subsystem for Linux](https://code.visualstudio.com/docs/remote/wsl) and/or ping me to discuss. You'll also need to install Python using [these instructions for Linux](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#linux-1).
 
-## Code Editor
+## GitHub and git
 
-We officially support (and recommend) [Visual Studio Code](https://code.visualstudio.com/) as the code editor for this course.
+We'll use the [git version control system](https://git-scm.com/book/en/v2) in tandem with GitHub, a platform for sharing code and managing projects.
 
-After getting VS Code, you should install the following extensions:
+- [GitHub](https://github.com/) account
+  - [GitHub Student Developer Pack](https://education.github.com/pack) - Signing up requires a Stanford student ID and should only take a few minutes.
+  - [GitHub Copilot](https://github.com/features/copilot) enabled (after getting approved for the Student Developer Pack
 
-  - Python
-  - Jupyter
-  - GitHub Copilot (and follow the steps)
+Once you have a GitHub account, follow [these steps](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#version-control) to install git on your computer.
+
+Lastly, follow [these steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate ssh keys and upload your *public* ssh key to GitHub. **NOTE**: Leave the password blank when generating your ssh key.
 
 ## GIS software and platforms
 
