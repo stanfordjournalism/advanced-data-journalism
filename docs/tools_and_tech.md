@@ -13,11 +13,11 @@ In this course we primarily use the Python programming language for coding and a
 
 You'll need Python 3.10 or 3.11.
 
-If you're on a **Mac**, you can verify the current version of Python by:
+If you're on a **Mac**, verify the current Python version using the below steps:
 
-- Clicking `command + space bar` to open a Spotlight search
-- Searching for the Terminal shell application and opening it
-- In the terminal, typing `python --version` and hit `return`
+- Click `command + space bar` to open a Spotlight search
+- Search for the `Terminal` shell application and open it
+- In the terminal, type `python --version` and hit `return`
 
 If you see Python `3.10.x` or `3.11.x`, you're all set. If you see an older Python version, check out these [install instructions](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#mac) or ping me to discuss options.
 
