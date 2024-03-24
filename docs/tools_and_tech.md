@@ -36,7 +36,9 @@ We'll use the [git version control system](https://git-scm.com/book/en/v2) in ta
 
 Once you have a GitHub account, follow [these steps](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#version-control) to install git on your computer.
 
-Lastly, follow [these steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate ssh keys and upload your *public* ssh key to GitHub. **NOTE**: Leave the password blank when generating your ssh key.
+Lastly, follow [these steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate ssh keys and upload your *public* ssh key to GitHub.
+
+> **Note**: Leave the password blank when generating your ssh key.
 
 ## GIS software and platforms
 
