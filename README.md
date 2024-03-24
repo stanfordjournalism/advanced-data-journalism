@@ -17,4 +17,4 @@ Students learn how these techniques are used to develop and tell stories, and th
 
 ## Resources
 
-- [Tech Setup](docs/tech_setup.md)
+- [Tools and Tech Setup](docs/tools_and_tech.md)
