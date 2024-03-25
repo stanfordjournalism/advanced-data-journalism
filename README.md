@@ -20,7 +20,7 @@ We'll examine how journalists use these techniques to develop and tell stories, 
 
 This course is designed for students with a solid foundation in basic Python syntax and some experience with data analysis, in particular using the [pandas](https://pandas.pydata.org/) and [altair](https://altair-viz.github.io/) libraries. Basic familiarity with the command line is also assumed.
 
-Before starting this course, you should be familiar with the material covered in the following resources:
+Before starting this course, make sure you're comfortable with the material covered in the following resources:
 
 - [Bash terminal crash course](https://github.com/stanfordjournalism/padj-code/blob/main/exercises/bash_drill.md)
 - [Stanford Data Journalism Notebooks](https://stanfordjournalism.github.io/data-journalism-notebooks/lab?path=README.ipynb)
