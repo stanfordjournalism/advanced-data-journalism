@@ -4,6 +4,7 @@ Curriculum for Advanced Data Journalism (COMM 177A/277A), a course offered throu
 
 In this course, we learn about and experiment with a variety of advanced data and computational techniques used in the news industry to hold powerful individuals and institutions to account. Topics include:
 
+- Exploring the landscape of "advanced" data journalism
 - Working with APIs and web scraping at scale
 - Data extraction and standardization methodologies
 - Deeper dive into charts and data visualization
