@@ -2,16 +2,6 @@
 
 In this course we primarily use the Python programming language for coding and analysis, along with a few other services and tools that are generally free.
 
-## Code Editor
-
-We officially support (and recommend) [Visual Studio Code](https://code.visualstudio.com/) as the code editor for this course.
-
-After getting VS Code, you should install the following extensions:
-
-  - Python
-  - Jupyter
-  - GitHub Copilot
-
 ## Python
 
 You'll need Python 3.10 or 3.11.
@@ -25,6 +15,16 @@ If you're on a **Mac**, verify the current Python version using the below steps:
 If you see Python `3.10.x` or `3.11.x`, you're all set. If you see an older Python version, check out these [install instructions](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#mac) or ping me to discuss options.
 
 If you’re on **Windows**, check out these [install instructions for Windows Subsystem for Linux](https://code.visualstudio.com/docs/remote/wsl) and/or ping me to discuss. You'll also need to install Python using [these instructions for Linux](https://github.com/stanfordjournalism/padj-code/blob/main/docs/tech_setup.md#linux-1).
+
+## Code Editor
+
+We officially support (and recommend) [Visual Studio Code](https://code.visualstudio.com/) as the code editor for this course.
+
+After getting VS Code, you should [install the following extensions](https://code.visualstudio.com/docs/editor/extension-marketplace):
+
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 ## GitHub and git
 
