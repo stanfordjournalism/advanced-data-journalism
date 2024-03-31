@@ -44,7 +44,7 @@ Lastly, follow [these steps](https://docs.github.com/en/authentication/connectin
 
 On occassion we'll use GitHub Classroom and Codespaces for coding assignments.
 
-Checko out this [YouTube playlist](https://www.youtube.com/playlist?list=PLk0x-_e-Fs-AfEhLNEFCGHja-2QVIHHT3) if you need a refresher on topics such as accepting a Classrom assignment, committing/pushing code, etc.
+Check out this [YouTube playlist](https://www.youtube.com/playlist?list=PLk0x-_e-Fs-AfEhLNEFCGHja-2QVIHHT3) if you need a refresher on topics such as accepting a Classroom assignment, committing/pushing code, etc.
 
 ## GIS software and platforms
 
