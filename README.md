@@ -15,7 +15,7 @@ In this course, we learn about and experiment with a variety of advanced data an
 
 We'll examine how journalists use these techniques to develop and tell stories, and then apply that knowledge in small-scale, novel exercises.
 
-> :book: If you're a journalism educator, please reach out and we can provide free access to the accompanying Teacher's Guide for this course.
+> :book: If you're a journalism educator, please reach out and we can provide free access to the accompanying Teacher's Guide and assignments (with solutions) for this course.
 
 ## Prerequisites
 
