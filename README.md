@@ -29,5 +29,6 @@ Before starting this course, make sure you're comfortable with the material cove
 
 ## Resources
 
+- [Daily lessons](docs/lessons.md)
 - [Tools and Tech Setup](docs/tools_and_tech.md)
 
