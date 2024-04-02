@@ -19,7 +19,7 @@ We'll examine how journalists use these techniques to develop and tell stories, 
 
 ## Resources
 
-- [Daily lessons](docs/lessons.md)
+- [Daily lessons](lessons/README.md)
 - [Tools and Tech Setup](docs/tools_and_tech.md)
 
 ## Prerequisites
