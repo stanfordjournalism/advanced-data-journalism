@@ -24,4 +24,16 @@ Outline of the topics/resources for each day of class.
 
 ### Day 2 - OOP Wrap-up; In-class Quiz; Intro to APIs
 
-TBD
+- Discussion/Q&A on [Demystifying Dot Notation][] and related [Elections OOP Coding Challenge][] (*see Canvas assignment for details*)
+- Quiz on *Demystifying* tutorial (Canvas)
+- [Intro to APIs presentation][]
+- Assignments reminder:
+  - Elections OOP (due Friday)
+  - Weekly reflection (due Sunday)
+  - Senate Compromisers (due Monday)
+- Hands-on work for remainder of class (student choice):
+  - Start Quakebot exercise/Senate Compromisers assignment
+  - Work on [Elections OOP Coding Challenge][]
+
+[Intro to APIs presentation]: https://tinyurl.com/apis-and-the-news
+[Elections OOP Coding Challenge]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=classes_and_oop%2Felections_oop_code_challenge.ipynb
