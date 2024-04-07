@@ -53,3 +53,5 @@ git clone git@github.com:stanfordjournalism/data-journalism-notebooks.git
 ```
 
 Once the repo is opened locally in VS Code, navigate to `content/web_scraping/README.ipynb` and work through all notebooks, in order. **There will be a quiz on the material next class.**
+
+> NOTE: If you're new to browser developer tools, level up using materials for Chrome or Firefox (just pick one) in `content/web_scraping/resources.ipynb`).
