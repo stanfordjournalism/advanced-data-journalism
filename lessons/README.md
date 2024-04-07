@@ -58,5 +58,6 @@ Once the repo is opened locally in VS Code, navigate to `content/web_scraping/RE
 
 ### Day 4 - Quiz and CLEAN Scrapers
 
+- Quiz on APIs/Web Scraping
 - Overview of the Community Law Enforcement Accountability Network (CLEAN)
 - [clean-scrapers](https://github.com/biglocalnews/clean-scrapers) - Open source scraper contributions as weekend assignment
