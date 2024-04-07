@@ -30,10 +30,26 @@ Outline of the topics/resources for each day of class.
 - Assignments reminder:
   - Elections OOP (due Friday)
   - Weekly reflection (due Sunday)
-  - Senate Compromisers (due Monday)
+  - Senate Compromisers (due Monday).
 - Hands-on work for remainder of class (student choice):
   - Start Quakebot exercise/Senate Compromisers assignment
   - Work on [Elections OOP Coding Challenge][]
 
 [Intro to APIs presentation]: https://tinyurl.com/apis-and-the-news
 [Elections OOP Coding Challenge]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=classes_and_oop%2Felections_oop_code_challenge.ipynb
+
+
+## Week 2
+
+### Day 3 - Web Scraping
+
+Please clone the [Stanford Data Journalism Notebooks repo](https://github.com/stanfordjournalism/data-journalism-notebooks).
+
+
+You can [use VS Code to clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository) or the command line.
+
+```bash
+git clone git@github.com:stanfordjournalism/data-journalism-notebooks.git
+```
+
+Once the repo is opened locally in VS Code, navigate to `content/web_scraping/README.ipynb` and work through all notebooks, in order. **There will be a quiz on the material next class.**
