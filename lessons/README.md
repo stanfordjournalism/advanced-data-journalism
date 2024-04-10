@@ -58,6 +58,15 @@ Once the repo is opened locally in VS Code, navigate to `content/web_scraping/RE
 
 ### Day 4 - Quiz and CLEAN Scrapers
 
-- Quiz on APIs/Web Scraping
-- Overview of the Community Law Enforcement Accountability Network (CLEAN)
-- [clean-scrapers](https://github.com/biglocalnews/clean-scrapers) - Open source scraper contributions as weekend assignment
+- Guest lecture: [Katey Rusch](https://journalism.berkeley.edu/person/katey-rusch/), from the UC Berkeley Investigative Reporting Program, on the Community Law Enforcement Accountability Network (CLEAN)
+- Overview of `clean-scraper` code architecture and motivations
+  - If you're still shaky on classes and functions, please review Data Journalism Notebook lessons on [classes and OOP](https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=classes_and_oop%2FREADME.ipynb)
+- Begin working on [clean-scraper](https://github.com/biglocalnews/clean-scraper) - Open source scraper contributions as weekend assignment
+  - [Dissect the website][] and craft a scraping strategy. Add your proposed strategy to the GitHub issue for the site
+  - **Once your scraping strategy is approved**, begin implementing the code on a fork of the `clean-scraper` repo, per the [Contributor Guidelines][]
+- Homework:
+  - Quiz on APIs/Web Scraping
+  - Build a `clean-scraper`
+
+[Dissect the website]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=web_scraping%2Fdissecting_websites.ipynb
+[Contributor Guidelines]: https://github.com/biglocalnews/clean-scraper/blob/main/docs/contributing.md
