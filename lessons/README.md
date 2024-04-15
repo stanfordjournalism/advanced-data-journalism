@@ -65,8 +65,26 @@ Once the repo is opened locally in VS Code, navigate to `content/web_scraping/RE
   - [Dissect the website][] and craft a scraping strategy. Add your proposed strategy to the GitHub issue for the site
   - **Once your scraping strategy is approved**, begin implementing the code on a fork of the `clean-scraper` repo, per the [Contributor Guidelines][]
 - Homework:
-  - Quiz on APIs/Web Scraping
-  - Build a `clean-scraper`
 
+## Week 3
+
+### Day 5 - CLEAN Scraping
+
+Guided tour of the [clean-scraper][] code repository, including:
+
+- Code architecture:
+  ```
+  cli -> runner -> San Diego PD scraper -> cache.download
+  ```
+- Code conventions: 
+  - `scrape_meta` stores file artifacts in cache and produces a JSON metadata file
+  - `scrape` reads JSON metadata and downloads files (to cache)
+- *Scraping at scale, with a paper trail.* - aka why the complexity?
+- Contributor Guidelines
+  - Claim an agency by filing a GitHub Issue
+  - Dissect your website and add proposed scraping plan to GH Issue
+- Start writing your scraper
+
+[clean-scraper]: https://github.com/biglocalnews/clean-scraper
 [Dissect the website]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=web_scraping%2Fdissecting_websites.ipynb
 [Contributor Guidelines]: https://github.com/biglocalnews/clean-scraper/blob/main/docs/contributing.md
