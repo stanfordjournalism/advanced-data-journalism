@@ -88,3 +88,8 @@ Guided tour of the [clean-scraper][] code repository, including:
 [clean-scraper]: https://github.com/biglocalnews/clean-scraper
 [Dissect the website]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=web_scraping%2Fdissecting_websites.ipynb
 [Contributor Guidelines]: https://github.com/biglocalnews/clean-scraper/blob/main/docs/contributing.md
+
+## Day 6 - CLEAN Scraping continued
+
+- Finalize scraping plans (make sure to file an Issue for your scraper on GitHub)
+- Work on scrapers
