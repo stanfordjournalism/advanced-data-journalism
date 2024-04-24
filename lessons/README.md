@@ -93,3 +93,21 @@ Guided tour of the [clean-scraper][] code repository, including:
 
 - Finalize scraping plans (make sure to file an Issue for your scraper on GitHub)
 - Work on scrapers
+
+## Week 4
+
+### Day 7 - Data Viz Intro and clean-scraper check-ins
+
+- [Data Viz slides](https://slides.com/serdartumgoren/deck-04bb96) - Several short hands-on exercises built in.
+- [Visualization Curriculum](https://github.com/uwdata/visualization-curriculum) - Provide an overview.
+- Status check-ins and code help on `clean-scraper` work
+
+### Day 8 - Hands-on Data Viz for Watchdog Reporting investigation
+
+- Guest visit by Cheryl Phillips to discuss a project in her Watchdog Reporting class. 
+- Finalizing open-source contributions to [clean-scraper][]
+- Hands-on work (pot luck):
+  - Wrap up Viz Curriculum if you haven't done so
+  - Work on data viz for your own projects/interests
+  - Begin the data viz assignment for Watchdog Reporting (see Canvas)
+  - Wrap up `clean-scraper` contribution
