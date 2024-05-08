@@ -111,3 +111,28 @@ Guided tour of the [clean-scraper][] code repository, including:
   - Work on data viz for your own projects/interests
   - Begin the data viz assignment for Watchdog Reporting (see Canvas)
   - Wrap up `clean-scraper` contribution
+
+## Week 5
+
+### Day 9 - Data Dashboard Design & Streamlit
+
+- [Data Dashboard Design][] - Guest lecture by Gerald Rich
+- [Tutorial: Census Population Streamlit Dashboard](https://github.com/dataprofessor/population-dashboard)
+
+[Data Dashboard Design]: https://slides.com/geraldrich/stanford-adv-journalism-2024-data-dashboards/
+
+### Day 10 - Sports Charity Analysis Hands-on
+
+Hands-on work for sports charities analysis.
+
+## Week 6
+
+### Day 11 - Sports Analysis continued
+
+Hands-on work for sports charities analysis, and closing the loop on `clean-scraper`.
+
+## Day 12 - Sports Charity Dashboards 
+
+- Design a multipage Streamlit app for the Sports Charity investigation
+- Ramp up on Streamlit, as needed
+- Begin implementing your Streamlit pages for the Sports Charity project
