@@ -133,6 +133,8 @@ Hands-on work for sports charities analysis, and closing the loop on `clean-scra
 
 ### Day 12 - Sports Charity Dashboards 
 
-- Design a multipage Streamlit app for the Sports Charity investigation
-- Ramp up on Streamlit, as needed
-- Begin implementing your Streamlit pages for the Sports Charity project
+- Design a [multipage Streamlit app](https://docs.streamlit.io/develop/concepts/multipage-apps) for the Sports Charity investigation
+- Ramp up on Streamlit, as needed:
+  - [Streamlit Basic Concepts](https://docs.streamlit.io/get-started/fundamentals/main-concepts)
+  - [Tutorial: Census population streamlit tutorial](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
+- Begin implementing your Streamlit pages for the Sports Charity project (due next week; see Canvas)
