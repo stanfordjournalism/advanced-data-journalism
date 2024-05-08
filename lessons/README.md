@@ -89,7 +89,7 @@ Guided tour of the [clean-scraper][] code repository, including:
 [Dissect the website]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=web_scraping%2Fdissecting_websites.ipynb
 [Contributor Guidelines]: https://github.com/biglocalnews/clean-scraper/blob/main/docs/contributing.md
 
-## Day 6 - CLEAN Scraping continued
+### Day 6 - CLEAN Scraping continued
 
 - Finalize scraping plans (make sure to file an Issue for your scraper on GitHub)
 - Work on scrapers
@@ -131,7 +131,7 @@ Hands-on work for sports charities analysis.
 
 Hands-on work for sports charities analysis, and closing the loop on `clean-scraper`.
 
-## Day 12 - Sports Charity Dashboards 
+### Day 12 - Sports Charity Dashboards 
 
 - Design a multipage Streamlit app for the Sports Charity investigation
 - Ramp up on Streamlit, as needed
