@@ -12,7 +12,7 @@ Outline of the topics/resources for each day of class.
   - Defining "advanced"
 - [Demystifying Dot Notation][]
   - High-level discussion on dot notation and Python classes and OOP. This will be the last installment in Python basics, and builds on the foundation laid during fall and winter quarters in the core [PADJ courses][]. You should complete the *Demystifying* tutorial in advance of Day 2, when there will be an in-class quiz on the material covered.
-  - Complete the [Elections OOP assignment][] by Friday. *This assignment is on GitHub Classroom. See Canvas for detailed instructions.*
+  - Complete the [Elections OOP assignment][] by Sunday. *This assignment is on GitHub Classroom. See Canvas for detailed instructions.*
 - Housekeeping (course resources, format, [AI policy][], etc.)
 
 [Course Intro Presentation]: https://slides.com/serdartumgoren/advanced-data-journalism-e2186d?token=zRKg5RFQ
@@ -28,23 +28,20 @@ Outline of the topics/resources for each day of class.
 - Quiz on *Demystifying* tutorial (Canvas)
 - [Intro to APIs presentation][]
 - Assignments reminder:
-  - Elections OOP (due Friday)
+  - Elections OOP (due Sunday)
   - Weekly reflection (due Sunday)
-  - Senate Compromisers (due Monday).
 - Hands-on work for remainder of class (student choice):
-  - Start Quakebot exercise/Senate Compromisers assignment
+  - Start Quakebot exercise
   - Work on [Elections OOP Coding Challenge][]
 
 [Intro to APIs presentation]: https://tinyurl.com/apis-and-the-news
 [Elections OOP Coding Challenge]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=classes_and_oop%2Felections_oop_code_challenge.ipynb
-
 
 ## Week 2
 
 ### Day 3 - Web Scraping
 
 Please clone the [Stanford Data Journalism Notebooks repo](https://github.com/stanfordjournalism/data-journalism-notebooks).
-
 
 You can [use VS Code to clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository) or the command line.
 
@@ -56,85 +53,3 @@ Once the repo is opened locally in VS Code, navigate to `content/web_scraping/RE
 
 > NOTE: If you're new to browser developer tools, level up using materials for Chrome or Firefox (just pick one) in `content/web_scraping/resources.ipynb`).
 
-### Day 4 - Quiz and CLEAN Scrapers
-
-- Guest lecture: [Katey Rusch](https://journalism.berkeley.edu/person/katey-rusch/), from the UC Berkeley Investigative Reporting Program, on the Community Law Enforcement Accountability Network (CLEAN)
-- Overview of `clean-scraper` code architecture and motivations
-  - If you're still shaky on classes and functions, please review Data Journalism Notebook lessons on [classes and OOP](https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=classes_and_oop%2FREADME.ipynb)
-- Begin working on [clean-scraper](https://github.com/biglocalnews/clean-scraper) - Open source scraper contributions as weekend assignment
-  - [Dissect the website][] and craft a scraping strategy. Add your proposed strategy to the GitHub issue for the site
-  - **Once your scraping strategy is approved**, begin implementing the code on a fork of the `clean-scraper` repo, per the [Contributor Guidelines][]
-- Homework:
-
-## Week 3
-
-### Day 5 - CLEAN Scraping
-
-Guided tour of the [clean-scraper][] code repository, including:
-
-- Code architecture:
-  ```
-  cli -> runner -> San Diego PD scraper -> cache.download
-  ```
-- Code conventions: 
-  - `scrape_meta` stores file artifacts in cache and produces a JSON metadata file
-  - `scrape` reads JSON metadata and downloads files (to cache)
-- *Scraping at scale, with a paper trail.* - aka why the complexity?
-- Contributor Guidelines
-  - Claim an agency by filing a GitHub Issue
-  - Dissect your website and add proposed scraping plan to GH Issue
-- Start writing your scraper
-
-[clean-scraper]: https://github.com/biglocalnews/clean-scraper
-[Dissect the website]: https://stanfordjournalism.github.io/data-journalism-notebooks/lab/index.html?path=web_scraping%2Fdissecting_websites.ipynb
-[Contributor Guidelines]: https://github.com/biglocalnews/clean-scraper/blob/main/docs/contributing.md
-
-### Day 6 - CLEAN Scraping continued
-
-- Finalize scraping plans (make sure to file an Issue for your scraper on GitHub)
-- Work on scrapers
-
-## Week 4
-
-### Day 7 - Data Viz Intro and clean-scraper check-ins
-
-- [Data Viz slides](https://slides.com/serdartumgoren/deck-04bb96) - Several short hands-on exercises built in.
-- [Visualization Curriculum](https://github.com/uwdata/visualization-curriculum) - Provide an overview.
-- Status check-ins and code help on `clean-scraper` work
-
-### Day 8 - Hands-on Data Viz for Watchdog Reporting investigation
-
-- Guest visit by Cheryl Phillips to discuss a project in her Watchdog Reporting class. 
-- Finalizing open-source contributions to [clean-scraper][]
-- Hands-on work (pot luck):
-  - Wrap up Viz Curriculum if you haven't done so
-  - Work on data viz for your own projects/interests
-  - Begin the data viz assignment for Watchdog Reporting (see Canvas)
-  - Wrap up `clean-scraper` contribution
-
-## Week 5
-
-### Day 9 - Data Dashboard Design & Streamlit
-
-- [Data Dashboard Design][] - Guest lecture by Gerald Rich
-- [Tutorial: Census Population Streamlit Dashboard](https://github.com/dataprofessor/population-dashboard)
-
-[Data Dashboard Design]: https://slides.com/geraldrich/stanford-adv-journalism-2024-data-dashboards/
-
-### Day 10 - Sports Charity Analysis Hands-on
-
-Hands-on work for sports charities analysis.
-
-## Week 6
-
-### Day 11 - Sports Analysis continued
-
-Hands-on work for sports charities analysis, and closing the loop on `clean-scraper`.
-
-### Day 12 - Sports Charity Dashboards 
-
-- Design a [multipage Streamlit app](https://docs.streamlit.io/develop/concepts/multipage-apps) for the Sports Charity investigation
-- Ramp up on Streamlit, as needed:
-  - [Streamlit Basic Concepts](https://docs.streamlit.io/get-started/fundamentals/main-concepts)
-  - [Tutorial: Census population streamlit tutorial](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
-- Begin implementing your Streamlit pages for the Sports Charity project (due next week; see Canvas)
